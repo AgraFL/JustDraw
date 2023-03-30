@@ -1,0 +1,7 @@
+*.html linguist-documentation=false
+JustDraw/build linguist-vendored
+JustDraw/icon linguist-vendored
+JustDraw/JustDraw.spec linguist-vendored
+JustDraw/JustDraw.exe linguist-vendored
+JustDraw/README.md linguist-vendored
+JustDraw/LICENSE linguist-vendored
